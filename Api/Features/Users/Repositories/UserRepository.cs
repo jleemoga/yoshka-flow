@@ -1,8 +1,8 @@
 using Microsoft.EntityFrameworkCore;
-using MyApi.Data;
-using MyApi.Features.Users.Models;
+using Api.Data;
+using Api.Features.Users.Models;
 
-namespace MyApi.Features.Users.Repositories;
+namespace Api.Features.Users.Repositories;
 
 public class UserRepository : IUserRepository
 {

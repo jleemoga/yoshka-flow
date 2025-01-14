@@ -1,9 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using MyApi.Data;
+using Api.Data;
 
-namespace MyApi.Features.Database.Extensions;
+namespace Api.Features.Database.Extensions;
 
 public static class DatabaseExtensions
 {

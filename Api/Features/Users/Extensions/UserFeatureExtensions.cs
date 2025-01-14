@@ -1,8 +1,8 @@
 using Microsoft.Extensions.DependencyInjection;
-using MyApi.Features.Users.Repositories;
-using MyApi.Features.Users.Services;
+using Api.Features.Users.Repositories;
+using Api.Features.Users.Services;
 
-namespace MyApi.Features.Users.Extensions;
+namespace Api.Features.Users.Extensions;
 
 public static class UserFeatureExtensions
 {

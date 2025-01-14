@@ -1,4 +1,4 @@
-namespace MyApi.Features.Users.Models;
+namespace Api.Features.Users.Models;
 
 public class User
 {

@@ -1,8 +1,8 @@
 using System.Net;
 using Microsoft.AspNetCore.Http;
-using MyApi.Shared.Models;
+using Api.Shared.Models;
 
-namespace MyApi.Shared.Middleware;
+namespace Api.Shared.Middleware;
 
 public class ExceptionMiddleware
 {

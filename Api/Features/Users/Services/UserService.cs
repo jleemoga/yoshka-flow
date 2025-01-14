@@ -1,7 +1,7 @@
-using MyApi.Features.Users.Models;
-using MyApi.Features.Users.Repositories;
+using Api.Features.Users.Models;
+using Api.Features.Users.Repositories;
 
-namespace MyApi.Features.Users.Services;
+namespace Api.Features.Users.Services;
 
 public class UserService : IUserService
 {

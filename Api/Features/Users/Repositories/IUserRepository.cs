@@ -1,6 +1,6 @@
-using MyApi.Features.Users.Models;
+using Api.Features.Users.Models;
 
-namespace MyApi.Features.Users.Repositories;
+namespace Api.Features.Users.Repositories;
 
 public interface IUserRepository
 {

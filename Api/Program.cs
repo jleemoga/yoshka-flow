@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
-using MyApi.Features.Database.Extensions;
-using MyApi.Features.Health.Extensions;
-using MyApi.Features.Users.Extensions;
-using MyApi.Shared.Middleware;
+using Api.Features.Database.Extensions;
+using Api.Features.Health.Extensions;
+using Api.Features.Users.Extensions;
+using Api.Shared.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
 

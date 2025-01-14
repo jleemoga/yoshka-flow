@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace MyApi.Features.Health.Controllers;
+namespace Api.Features.Health.Controllers;
 
 [ApiController]
 [Route("")]

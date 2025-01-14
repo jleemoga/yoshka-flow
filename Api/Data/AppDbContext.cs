@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using MyApi.Features.Users.Models;
+using Api.Features.Users.Models;
 
-namespace MyApi.Data;
+namespace Api.Data;
 
 public class AppDbContext : DbContext
 {

@@ -1,6 +1,6 @@
-using MyApi.Features.Users.Models;
+using Api.Features.Users.Models;
 
-namespace MyApi.Features.Users.Services;
+namespace Api.Features.Users.Services;
 
 public interface IUserService
 {

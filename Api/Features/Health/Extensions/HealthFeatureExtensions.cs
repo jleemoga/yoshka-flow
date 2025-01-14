@@ -1,7 +1,7 @@
 using Microsoft.Extensions.DependencyInjection;
-using MyApi.Features.Health.Controllers;
+using Api.Features.Health.Controllers;
 
-namespace MyApi.Features.Health.Extensions;
+namespace Api.Features.Health.Extensions;
 
 public static class HealthFeatureExtensions
 {

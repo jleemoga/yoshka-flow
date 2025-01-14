@@ -1,6 +1,6 @@
 using System.Text.Json;
 
-namespace MyApi.Shared.Models;
+namespace Api.Shared.Models;
 
 public class ErrorDetails
 {
